@@ -1,0 +1,6 @@
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Dominio\bin\Debug\TiendaVirtualRD.Dominio.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Dominio\bin\Debug\TiendaVirtualRD.Dominio.pdb
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Dominio\obj\Debug\TiendaVirtualRD.Dominio.csprojAssemblyReference.cache
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Dominio\obj\Debug\TiendaVirtualRD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Dominio\obj\Debug\TiendaVirtualRD.Dominio.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Dominio\obj\Debug\TiendaVirtualRD.Dominio.pdb

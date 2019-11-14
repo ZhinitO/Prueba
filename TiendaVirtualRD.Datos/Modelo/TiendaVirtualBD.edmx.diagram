@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2e5d6a41127a4c3fb0e6b7124c38641b" Name="Diagram1">
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Calificacion" Width="1.5" PointX="3" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Categoria" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.CategoriaProducto" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Cliente" Width="1.5" PointX="0.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Comentario" Width="1.5" PointX="3" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.DetalleFactura" Width="1.5" PointX="6" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Factura" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Facturacion" Width="1.5" PointX="6" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.FormaPago" Width="1.5" PointX="1.5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.ImagenProducto" Width="1.5" PointX="3" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TiendaVirtual_RDModel.Producto" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Calificacion_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Calificacion_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_CategoriaProducto_Categoria" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_CategoriaProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Comentario_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Factura_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Comentario_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_DetalleFactura_Factura" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_DetalleFactura_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Factura_FormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_Facturacion_Factura" ManuallyRouted="false" />
+        <AssociationConnector Association="TiendaVirtual_RDModel.FK_ImagenProducto_Producto" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

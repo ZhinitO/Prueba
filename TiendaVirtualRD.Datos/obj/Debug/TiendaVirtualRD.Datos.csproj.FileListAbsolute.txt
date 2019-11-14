@@ -1,0 +1,14 @@
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\TiendaVirtualRD.Datos.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\TiendaVirtualRD.Datos.pdb
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\TiendaVirtualRD.Dominio.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\TiendaVirtualRD.Dominio.pdb
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\obj\Debug\TiendaVirtualRD.Datos.csprojAssemblyReference.cache
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\obj\Debug\TiendaVirtualRD.Datos.csproj.CoreCompileInputs.cache
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\obj\Debug\TiendaVirtualRD.Datos.csproj.CopyComplete
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\obj\Debug\TiendaVirtualRD.Datos.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\obj\Debug\TiendaVirtualRD.Datos.pdb
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\TiendaVirtualRD.Datos.dll.config
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\EntityFramework.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\EntityFramework.xml
+C:\Users\chino\source\repos\TiendaVirtualRD\TiendaVirtualRD.Datos\bin\Debug\EntityFramework.SqlServer.xml
